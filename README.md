@@ -19,6 +19,12 @@
 ```
 
 ### Artefatos Planejados
+- [ ] Documento de Requisitos
+- [ ] Matriz SWOT
+- [ ] Plano MVV
+- [ ] Plano 5W2H
+- [ ] Wireframes
+- [ ] Documento Final
 
 ## 🎯 Objetivos
 
@@ -27,8 +33,9 @@ Este repositório contém todos os artefatos e documentos desenvolvidos na disci
 ## 📝 Atualizações
 
 - **11/08/2025** - Criação inicial do repositório e estrutura base
+- **01/09/2025** - Atualização da estrutura e artefatos planejados
 
 ---
 
-*Última atualização: Agosto de 2025*
+*Última atualização: Setembro de 2025*
 
